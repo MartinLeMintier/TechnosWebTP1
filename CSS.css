@@ -25,6 +25,27 @@ nav a{
   font-size: 15px;
 }
 
+
+
+.putaclick
+{
+  animation-duration: 5s;
+  animation-name: slidein;
+  animation-iteration-count: infinite;
+}
+
+@keyframes slidein {
+  from {
+    margin-left: 100%;
+    width: 300%; 
+  }
+
+  to {
+    margin-left: -10%;
+    width: 100%;
+  }
+}
+
 .navbar
 {
   display: table;
@@ -46,9 +67,19 @@ h3
   color: #F8FFFE;
 }
 
+h
+
 h4
 {
   text-align: center;
+  font-size: 25px;
+  color: #F8FFFE;
+}
+
+
+h2
+{
+
   font-size: 25px;
   color: #F8FFFE;
 }
