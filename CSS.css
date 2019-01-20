@@ -67,11 +67,25 @@ h5
   color: #F8FFFE;
 }
 
+h6
+{
+  text-align: center;
+  font-size: 15px;
+}
+
 p
 {
   text-align: center;
   font-size: 15px;
-  color: #F8FFFE;
+  color: #F8FFFE
+  
+}
+
+.video
+{
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 10%;
 }
 
 
@@ -82,6 +96,14 @@ p
   top: 20%;
   right: 43%;
  
+}
+.description
+{
+  color: #F8FFFE;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: -12%;
+
 }
 
 .ExpPro
