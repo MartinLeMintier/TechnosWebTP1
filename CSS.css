@@ -81,7 +81,7 @@ h3
   text-align: center;
   font-size: 25px;
   color: #F8FFFE;
-  position: fixed;
+  position: absolute;
   top: 30%;
   right: 30%;
 }
