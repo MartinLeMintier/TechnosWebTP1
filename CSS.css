@@ -67,9 +67,27 @@ h3
   color: #F8FFFE;
 }
 
-h
 
-h4
+
+.ExpPro h4
+{
+  text-align: center;
+  font-size: 25px;
+  color: #F8FFFE;
+}
+
+.parcours
+{ 
+  text-align: center;
+  font-size: 25px;
+  color: #F8FFFE;
+  position: fixed;
+  top: 30%;
+  right: 30%;
+}
+  
+
+.ExpPerso h4
 {
   text-align: center;
   font-size: 25px;
